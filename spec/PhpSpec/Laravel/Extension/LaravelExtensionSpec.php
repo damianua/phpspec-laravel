@@ -10,7 +10,7 @@ class LaravelExtensionSpec extends ObjectBehavior
 {
     function let(ServiceContainer $container)
     {
-        $container->define(Argument::cetera())->willReturn();
+        $container->define(Argument::cetera());
     }
 
     function it_is_a_phpspec_extension()
