@@ -1,5 +1,5 @@
 {
-  "name": "heybigname/phpspec-laravel",
+  "name": "damianua/phpspec-laravel",
   "description": "Test your Laravel applications with PhpSpec",
   "keywords": ["laravel", "phpspec", "testing", "test"],
   "homepage": "http://github.com/heybigname/phpspec-laravel",
@@ -15,7 +15,7 @@
   "require": {
     "php": "^7.3",
     "phpspec/phpspec": "~5.1.0",
-    "laravel/framework": "5.7.*"
+    "laravel/framework": "5.6.*"
   },
   "autoload": {
     "psr-0": {
